@@ -3,7 +3,6 @@ block-mount
 coreutils-base64
 diffutils
 git
-#kmod-usb-net-rtl8152
 losetup
 luci-i18n-base-de
 luci-i18n-ddns-de
